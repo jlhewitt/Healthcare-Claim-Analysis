@@ -1,5 +1,6 @@
 # Healthcare-Claim-Analysis
 An analysis of the factors correlated with costs of healthcare
+
 Summary:
 The factors that influence healthcare costs are notoriously hard to decipher. Costs associated with common procedures vary widely from patient to patient, even when controlling for geographic location, care setting, and complications. I took a deep dive into a set of health insurance claims data with the intention of creating a model that could predict costs for a common procedure and identify the factors associated with higher costs. 
 
